@@ -1,6 +1,6 @@
 import "./RadioBtn.css";
 
-import React, { useState } from "react";
+import React, {useState} from "react";
 
 const RadioBtn = ({ name }) => {
   const [selected, setSelected] = useState(false);
