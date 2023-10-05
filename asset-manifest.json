@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/homework-2-willhathaway/static/css/main.17bec7ac.css",
+    "main.js": "/homework-2-willhathaway/static/js/main.3558c526.js",
+    "index.html": "/homework-2-willhathaway/index.html",
+    "main.17bec7ac.css.map": "/homework-2-willhathaway/static/css/main.17bec7ac.css.map",
+    "main.3558c526.js.map": "/homework-2-willhathaway/static/js/main.3558c526.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17bec7ac.css",
+    "static/js/main.3558c526.js"
+  ]
+}
