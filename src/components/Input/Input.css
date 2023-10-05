@@ -1,0 +1,16 @@
+.inputDiv {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.inputName {
+    margin: 5px;
+    padding: 5px;
+}
+
+.inputField {
+    margin: 5px;
+    padding: 5px;
+}
